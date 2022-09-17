@@ -1,25 +1,26 @@
 .about {
     background-color: #1A1B21;
+    margin: 0;
     display: flex;
     flex-direction: column;
     width: 317px;
     padding-top: 15px;
-    margin: 0;
+    padding-bottom: 50px;
 }
 
 .about > h3 {
+    color: white;
     margin: 0;
     padding-left: 30px;
     padding-top: 25px;
-    color: white;
     font-weight: bold;
 }
 
 .about > p {
+    color: white;
     margin: 0;
     padding-top: 10px;
     padding-left: 30px;
     padding-right: 30px;
-    color: white;
     font-size: 12px;
 }

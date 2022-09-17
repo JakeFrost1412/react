@@ -1,5 +1,5 @@
 //import logo from './logo.svg';
-import './App.css';
+import './CSS/App.css';
 import Profile from './Profile';
 import Infor from './info';
 import Butt from './Buttons';

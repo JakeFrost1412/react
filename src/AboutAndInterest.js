@@ -1,12 +1,14 @@
-import './AboutAndInterest.css'
+import './CSS/AboutAndInterest.css'
 
 export default function About() {
     return (
         <div className='about'>
             <h3>About</h3>
-            <p>I am a cyber security researcher lol fuck you all just chilling and lol follow me on isntagram twitter rtc.</p>
+            <p>I am a frontend developer with a particular interest in making things simple and automating daily tasks.
+                I try to keep up with security and best practices, and am always looking for new things to learn.
+            </p>
             <h3>Interests</h3>
-            <p>I am a cyber security researcher lol fuck you all just chilling and lol follow me on isntagram twitter rtc.</p>
+            <p>Reader, Security cautious, Chess player, Coffee lover, Learning, Cryptography.</p>
         </div>
     )
 }
